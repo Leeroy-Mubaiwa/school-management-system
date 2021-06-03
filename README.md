@@ -1,0 +1,2 @@
+# school-management-system
+An information management system for educational institutions to manage all student's data. It provides abilities such as registration of students in classes, documenting of grades and analytical marks of each student and other evaluation elements. In addition, it is used for planning students’ curriculums, recording their attendance and managing all student-related needs within a school.
